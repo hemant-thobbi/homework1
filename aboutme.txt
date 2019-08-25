@@ -1,0 +1,12 @@
+Your name: Hemant Thobbi
+Your student ID: 011264955
+Your major: Computational Applied Mathematics
+Your preferred email address: hemantgthobbi@gmail.com
+Check one: [X] Undergraduate, [ ] Graduate, [ ] Open university
+Repeating the class? [ ] Yes, [X] No
+Place and semester where you took a programming course in Java: SJSU; Fall 2016
+Course number and grade received:
+Place and semester where you took a course in data structures: SJSU; Fall 2018
+Course number and grade received:
+Time it took you to answer the two questions below:
+Did you ask anyone for help? [ ] Yes, [X] No
